@@ -13,168 +13,192 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-08-27T21:06:54.356+03:00
-  initializedAtString: 2019-08-27T20:06:33.148+03:00
+  lastUpdatedAtString: 2019-08-27T19:36:38.978+03:00
+  initializedAtString: 2019-08-27T18:38:54.740+03:00
   entries:
-  - path: Game\Kolobok\.vscode\settings.json
-    fullPath: D:\Kolobok\Game\Kolobok\.vscode\settings.json
-    projectPath: .vscode\settings.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Kolobok\Assets\PlayerCar.cs
-    fullPath: D:\Kolobok\Game\Kolobok\Assets\PlayerCar.cs
-    projectPath: Assets\PlayerCar.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Kolobok\Assets\PlayerCar.cs.meta
-    fullPath: D:\Kolobok\Game\Kolobok\Assets\PlayerCar.cs.meta
-    projectPath: Assets\PlayerCar.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Kolobok\Assets\Scenes\HighwayToHell.unity
-    fullPath: D:\Kolobok\Game\Kolobok\Assets\Scenes\HighwayToHell.unity
-    projectPath: Assets\Scenes\HighwayToHell.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Kolobok\Assets\Scenes\HighwayToHell.unity.meta
-    fullPath: D:\Kolobok\Game\Kolobok\Assets\Scenes\HighwayToHell.unity.meta
-    projectPath: Assets\Scenes\HighwayToHell.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Game\Kolobok\Assets\Scenes\SampleScene.unity
-    fullPath: D:\Kolobok\Game\Kolobok\Assets\Scenes\SampleScene.unity
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Kolobok\Assets\Scenes\SampleScene.unity.meta
-    fullPath: D:\Kolobok\Game\Kolobok\Assets\Scenes\SampleScene.unity.meta
-    projectPath: Assets\Scenes\SampleScene.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Game\Kolobok\Library\assetDatabase3
-    fullPath: D:\Kolobok\Game\Kolobok\Library\assetDatabase3
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Kolobok\Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\Kolobok\Game\Kolobok\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+  - path: Game\Kolobok\Library\gfu\cache\branches.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Game\Kolobok\Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\Kolobok\Game\Kolobok\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Game\Kolobok\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game\Kolobok\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\Kolobok\Game\Kolobok\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Game\Kolobok\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\Kolobok\Game\Kolobok\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Library\gfu\cache\gituser.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Game\Kolobok\Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\Kolobok\Game\Kolobok\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Kolobok\Library\InspectorExpandedItems.asset
-    fullPath: D:\Kolobok\Game\Kolobok\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Kolobok\Library\metadata\07\078a1d89f91b24d408b47c39b771bef7
-    fullPath: D:\Kolobok\Game\Kolobok\Library\metadata\07\078a1d89f91b24d408b47c39b771bef7
-    projectPath: Library\metadata\07\078a1d89f91b24d408b47c39b771bef7
+  - path: Game\Kolobok\Library\ShaderCache\0\00f48c2527af9c6aee965518cb70e721.bin
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\0\00f48c2527af9c6aee965518cb70e721.bin
+    projectPath: Library\ShaderCache\0\00f48c2527af9c6aee965518cb70e721.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Kolobok\Library\metadata\07\078a1d89f91b24d408b47c39b771bef7.info
-    fullPath: D:\Kolobok\Game\Kolobok\Library\metadata\07\078a1d89f91b24d408b47c39b771bef7.info
-    projectPath: Library\metadata\07\078a1d89f91b24d408b47c39b771bef7.info
+  - path: Game\Kolobok\Library\ShaderCache\3\3140aa8d0d0ceb9acb22dbfbdbf1be11.bin
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\3\3140aa8d0d0ceb9acb22dbfbdbf1be11.bin
+    projectPath: Library\ShaderCache\3\3140aa8d0d0ceb9acb22dbfbdbf1be11.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Kolobok\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
-    fullPath: D:\Kolobok\Game\Kolobok\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
-    projectPath: Library\metadata\2c\2cda990e2423bbf4892e6590ba056729
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Kolobok\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729.info
-    fullPath: D:\Kolobok\Game\Kolobok\Library\metadata\2c\2cda990e2423bbf4892e6590ba056729.info
-    projectPath: Library\metadata\2c\2cda990e2423bbf4892e6590ba056729.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Kolobok\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\Kolobok\Game\Kolobok\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Game\Kolobok\Library\ShaderCache\4\43d0cb7e8c0f05e22aff1e38b15a69d5.bin
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\4\43d0cb7e8c0f05e22aff1e38b15a69d5.bin
+    projectPath: Library\ShaderCache\4\43d0cb7e8c0f05e22aff1e38b15a69d5.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Kolobok\Library\StateCache\Hierarchy\e5b414-mainStage.json
-    fullPath: D:\Kolobok\Game\Kolobok\Library\StateCache\Hierarchy\e5b414-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\e5b414-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Kolobok\Library\StateCache\SceneView\652eac-mainStage.json
-    fullPath: D:\Kolobok\Game\Kolobok\Library\StateCache\SceneView\652eac-mainStage.json
-    projectPath: Library\StateCache\SceneView\652eac-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Kolobok\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: D:\Kolobok\Game\Kolobok\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+  - path: Game\Kolobok\Library\ShaderCache\a\ac2b92c33718456c6a846176d9b4717a.bin
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\a\ac2b92c33718456c6a846176d9b4717a.bin
+    projectPath: Library\ShaderCache\a\ac2b92c33718456c6a846176d9b4717a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Kolobok\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: D:\Kolobok\Game\Kolobok\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+  - path: Game\Kolobok\Library\ShaderCache\d\de5f2c3c4a3c33746e293c382f66dace.bin
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\d\de5f2c3c4a3c33746e293c382f66dace.bin
+    projectPath: Library\ShaderCache\d\de5f2c3c4a3c33746e293c382f66dace.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Kolobok\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: D:\Kolobok\Game\Kolobok\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+  - path: Game\Kolobok\Library\ShaderCache\e\ef5e21cb1a3e18700dcdfbb0ac376a87.bin
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\e\ef5e21cb1a3e18700dcdfbb0ac376a87.bin
+    projectPath: Library\ShaderCache\e\ef5e21cb1a3e18700dcdfbb0ac376a87.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Game\Kolobok\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: D:\Kolobok\Game\Kolobok\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Kolobok\ProjectSettings\QualitySettings.asset
-    fullPath: D:\Kolobok\Game\Kolobok\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: Game\Kolobok\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Kolobok\ProjectSettings\UnityConnectSettings.asset
-    fullPath: D:\Kolobok\Game\Kolobok\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
+  - path: Game\Kolobok\Temp\UnityLockfile
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-146d96f094791b342b2ceb58f1c72797
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-146d96f094791b342b2ceb58f1c72797
+    projectPath: Temp\UnityTempFile-146d96f094791b342b2ceb58f1c72797
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-25a6feaadc6ec534fb6ab68e13cf3a5b
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-25a6feaadc6ec534fb6ab68e13cf3a5b
+    projectPath: Temp\UnityTempFile-25a6feaadc6ec534fb6ab68e13cf3a5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-317412fabf151284b8c839aba472539e
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-317412fabf151284b8c839aba472539e
+    projectPath: Temp\UnityTempFile-317412fabf151284b8c839aba472539e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-45e610936f275d44c9ddb95fc5ec2d09
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-45e610936f275d44c9ddb95fc5ec2d09
+    projectPath: Temp\UnityTempFile-45e610936f275d44c9ddb95fc5ec2d09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-5e569659d4922f343895d0090dc8de7b
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-5e569659d4922f343895d0090dc8de7b
+    projectPath: Temp\UnityTempFile-5e569659d4922f343895d0090dc8de7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-7d01e75d4d4a0644aa2b3d8b21151e47
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-7d01e75d4d4a0644aa2b3d8b21151e47
+    projectPath: Temp\UnityTempFile-7d01e75d4d4a0644aa2b3d8b21151e47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-89b6c3c0a40980f42a46e5f1f70194b2
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-89b6c3c0a40980f42a46e5f1f70194b2
+    projectPath: Temp\UnityTempFile-89b6c3c0a40980f42a46e5f1f70194b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-8a051c168a7736b41966591333feb4d2
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-8a051c168a7736b41966591333feb4d2
+    projectPath: Temp\UnityTempFile-8a051c168a7736b41966591333feb4d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-8a8ad4b15bc421641963921dbb1e2b52
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-8a8ad4b15bc421641963921dbb1e2b52
+    projectPath: Temp\UnityTempFile-8a8ad4b15bc421641963921dbb1e2b52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-92265e62345d09b4492d67b75ea906d1
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-92265e62345d09b4492d67b75ea906d1
+    projectPath: Temp\UnityTempFile-92265e62345d09b4492d67b75ea906d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-ac296ef008ae84e4984452b58e6f4854
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-ac296ef008ae84e4984452b58e6f4854
+    projectPath: Temp\UnityTempFile-ac296ef008ae84e4984452b58e6f4854
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-b0b7824032698a644857b3d55900a3c6
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-b0b7824032698a644857b3d55900a3c6
+    projectPath: Temp\UnityTempFile-b0b7824032698a644857b3d55900a3c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-b4c2a699255b8fb429de9f14b171c7d4
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-b4c2a699255b8fb429de9f14b171c7d4
+    projectPath: Temp\UnityTempFile-b4c2a699255b8fb429de9f14b171c7d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Kolobok\Temp\UnityTempFile-da16dec7287c8714bb1f26b2ce070221
+    fullPath: D:\Unity Projects\Kolobok\Game\Kolobok\Temp\UnityTempFile-da16dec7287c8714bb1f26b2ce070221
+    projectPath: Temp\UnityTempFile-da16dec7287c8714bb1f26b2ce070221
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
