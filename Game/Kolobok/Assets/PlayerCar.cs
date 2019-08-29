@@ -31,7 +31,7 @@ public class PlayerCar : MonoBehaviour
 				transform.position -= new Vector3(0, transform.position.y * speed / 3 * Time.deltaTime, 0);
 
 			else
-				transform.position -= new Vector3(0, transform.position.y * speed * Time.deltaTime, 0);
+				transform.position -= new Vector3(0, transform.position.y * speed / 3 * Time.deltaTime, 0);
 		}
 
 		if (Input.GetKey(KeyCode.A))
